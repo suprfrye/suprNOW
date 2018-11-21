@@ -2,9 +2,22 @@ body {
   background-color: #FFB6C1;
 }
 
-p {
+.nav {
+  border-bottom: solid #CD2626;
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.supr {
   color: #CD2626;
-  text-align: center;
   font-family: 'VT323', monospace;
-  font-size: 10em;
+  font-size: 2em;
+  text-align: right;
+}
+
+.body {
+  text-align: center;
+  margin-top: 5em;
 }
