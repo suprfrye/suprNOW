@@ -1,0 +1,23 @@
+body {
+  background-color: #FFB6C1;
+}
+
+.nav {
+  border-bottom: solid #CD2626;
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.supr {
+  color: #CD2626;
+  font-family: 'VT323', monospace;
+  font-size: 2em;
+  text-align: right;
+}
+
+.body {
+  text-align: center;
+  /*margin-top: 5em;*/
+}
